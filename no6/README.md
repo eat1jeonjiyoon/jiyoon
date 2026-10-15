@@ -24,10 +24,10 @@
 pre = current
 pre = link
 ~~~
-~~~
-___
+
 ### Node ▶ | data |[link]|
 ___
+~~~
 | current |[link]|-> | head |[link]|-> | C |[link]|-> | D |[link]|-> | E |[link]|
 ~~~
 
