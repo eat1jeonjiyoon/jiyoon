@@ -15,7 +15,7 @@ def print_graph(name, g):
 G1, G3 = None, None
 
 G1 = graph(4) #함수 호출(없으면 오류남)
-# G1.graph[초코][딸기] = 1 처럼 한글로 작성하면 오류날 가능성 높음
+# "G1.graph[초코][딸기] = 1" 처럼 한글로 작성하면 오류날 가능성 높음
 G1.graph[0][1] = 1
 G1.graph[0][2] = 1
 G1.graph[0][3] = 1
